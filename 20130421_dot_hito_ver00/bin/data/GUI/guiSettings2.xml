@@ -1,0 +1,149 @@
+<Widget>
+    <Kind>4</Kind>
+    <Name>Camera Distance</Name>
+    <Value>322.580688477</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Kinect angle</Name>
+    <Value>0.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>6</Kind>
+    <Name>Depth1 Near&amp;Far</Name>
+    <HighValue>1466.666625977</HighValue>
+    <LowValue>1102.500000000</LowValue>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Position1 X</Name>
+    <Value>0.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Position1 Z</Name>
+    <Value>0.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Rotation1</Name>
+    <Value>-31.354839325</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Distance1 X</Name>
+    <Value>0.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Distance1 Y</Name>
+    <Value>-100.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Distance1 Z</Name>
+    <Value>-761.290344238</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Z Scale1</Name>
+    <Value>0.600000024</Value>
+</Widget>
+<Widget>
+    <Kind>6</Kind>
+    <Name>Depth2 Near&amp;Far</Name>
+    <HighValue>1399.583374023</HighValue>
+    <LowValue>1102.500000000</LowValue>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Position2 X</Name>
+    <Value>0.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Position2 Z</Name>
+    <Value>0.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Rotation2</Name>
+    <Value>40.064514160</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Distance2 X</Name>
+    <Value>-35.483856201</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Distance2 Y</Name>
+    <Value>-112.903228760</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Distance2 Z</Name>
+    <Value>-780.645141602</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Z Scale2</Name>
+    <Value>0.600000024</Value>
+</Widget>
+<Widget>
+    <Kind>6</Kind>
+    <Name>Canny Hysteresis Threshold</Name>
+    <HighValue>117.307701111</HighValue>
+    <LowValue>83.333351135</LowValue>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Edge Point Skip</Name>
+    <Value>4.064516068</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>Visible1</Name>
+    <Value>1</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>Visible2</Name>
+    <Value>1</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>VisibleE</Name>
+    <Value>1</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>DevMode</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>DevMap</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>DevEdge</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Point Size</Name>
+    <Value>10.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Point Length</Name>
+    <Value>1129.032226562</Value>
+</Widget>
+<Widget>
+    <Kind>6</Kind>
+    <Name>Poly leng buffer</Name>
+    <HighValue>97.057693481</HighValue>
+    <LowValue>1.000001907</LowValue>
+</Widget>

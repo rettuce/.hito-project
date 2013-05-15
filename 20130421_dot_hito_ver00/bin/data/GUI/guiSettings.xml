@@ -1,0 +1,60 @@
+<Widget>
+    <Kind>2</Kind>
+    <Name>FullScreen</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>R</Name>
+    <Value>0.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>G</Name>
+    <Value>0.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>B</Name>
+    <Value>45.445545197</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>gif width</Name>
+    <Value>500.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>gif height</Name>
+    <Value>500.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>gif fps</Name>
+    <Value>12.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>gif time</Name>
+    <Value>1.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>capture timing</Name>
+    <Value>1.200000048</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>gif colors</Name>
+    <Value>60.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>ID</Name>
+    <Value>482.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>CaptureRunning</Name>
+    <Value>1</Value>
+</Widget>
